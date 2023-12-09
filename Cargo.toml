@@ -1,0 +1,5 @@
+[workspace]
+resolver = "2"
+members = [
+"gh-enterprise-tools","gh-invite-user","gh-remove-user","gh-ls-users","gh-ls-teams","gh-add-team","gh-remove-team","gh-team-invite-member","gh-team-remove-member","gh-repo-team-swap",
+]
